@@ -1,15 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="168" viewBox="0 0 1200 168" role="img" aria-label="03 Stack — Picked for speed. Proven in production.">
-<style><![CDATA[
-.gl { animation: gl 6s cubic-bezier(.65,0,.35,1) infinite; }
-@keyframes gl { 0%, 55% { transform: translateX(-260px) } 90%, 100% { transform: translateX(1300px) } }
-@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
-]]></style>
+
 <defs><clipPath id="w"><rect x="0" y="40" width="1200" height="112"/></clipPath></defs>
 <g clip-path="url(#w)">
 <text class="eb" x="2" y="72" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="3.2" fill="#8E9196">03 <tspan opacity=".5">—</tspan> STACK</text>
 <text class="ti" x="0" y="134" font-family="Inter, 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="600" letter-spacing="-2.2" fill="#F5F5F5">Picked for speed. Proven in production.</text>
 </g>
 <line x1="0" y1="164" x2="1200" y2="164" stroke="#30363D" stroke-width="1.5"/>
-<rect class="gl" x="0" y="163" width="220" height="3" fill="url(#lg)"/>
 <defs><linearGradient id="lg" x1="0" x2="1"><stop offset="0" stop-color="#F5F5F5" stop-opacity="0"/><stop offset=".5" stop-color="#F5F5F5" stop-opacity=".8"/><stop offset="1" stop-color="#F5F5F5" stop-opacity="0"/></linearGradient></defs>
 </svg>

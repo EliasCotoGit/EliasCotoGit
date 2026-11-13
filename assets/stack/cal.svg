@@ -1,9 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="112" height="124" viewBox="0 0 112 124" role="img" aria-label="Cal.com">
-<style><![CDATA[
-.sh { animation: sh 9s cubic-bezier(.65,0,.35,1) 1.68s infinite; }
-@keyframes sh { 0%, 70% { transform: translateX(-140px) skewX(-18deg) } 88%, 100% { transform: translateX(170px) skewX(-18deg) } }
-@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
-]]></style>
+
 <defs>
 <linearGradient id="tb" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#1A1A1D"/><stop offset="1" stop-color="#0F0F11"/></linearGradient>
 <linearGradient id="ts" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.13"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
@@ -11,7 +7,7 @@
 </defs>
 <g class="in">
 <rect x="3" y="3" width="106" height="118" rx="22" fill="url(#tb)"/>
-<g clip-path="url(#tc)"><rect class="sh" x="0" y="-10" width="56" height="144" fill="url(#ts)"/></g>
+
 <svg x="24.0" y="38.0" width="64.0" height="13.9" viewBox="0 0 101 22" fill="none">
 <path d="M10.0582 20.817C4.32115 20.817 0 16.2763 0 10.6704C0 5.04589 4.1005 0.467773 10.0582 0.467773C13.2209 0.467773 15.409 1.43945 17.1191 3.66311L14.3609 5.96151C13.2025 4.72822 11.805 4.11158 10.0582 4.11158C6.17833 4.11158 4.04533 7.08268 4.04533 10.6704C4.04533 14.2582 6.38059 17.1732 10.0582 17.1732C11.7866 17.1732 13.2577 16.5566 14.4161 15.3233L17.1375 17.7151C15.501 19.8453 13.2577 20.817 10.0582 20.817Z" fill="#ffff"/>
 <path d="M29.0161 5.88601H32.7304V20.4612H29.0161V18.331C28.2438 19.8446 26.9566 20.8536 24.4927 20.8536C20.5577 20.8536 17.4133 17.4341 17.4133 13.2297C17.4133 9.02528 20.5577 5.60571 24.4927 5.60571C26.9383 5.60571 28.2438 6.61477 29.0161 8.12835V5.88601ZM29.1264 13.2297C29.1264 10.95 27.5634 9.06266 25.0995 9.06266C22.7274 9.06266 21.1828 10.9686 21.1828 13.2297C21.1828 15.4346 22.7274 17.3967 25.0995 17.3967C27.5451 17.3967 29.1264 15.4907 29.1264 13.2297Z" fill="#ffff"/>

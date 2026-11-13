@@ -1,20 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="612" viewBox="0 0 1200 612" role="img" aria-label="01 AI-Powered Product and Interface Design. 02 Web Design and Development. 03 AI Integrations and Automation. 04 Full-Stack Web Apps and MVPs.">
-<style><![CDATA[
-.s0 { animation: sw 8s cubic-bezier(.65,0,.35,1) 1.2s infinite; }
-.s1 { animation: sw 8s cubic-bezier(.65,0,.35,1) 1.7s infinite; }
-.s2 { animation: sw 8s cubic-bezier(.65,0,.35,1) 2.2s infinite; }
-.s3 { animation: sw 8s cubic-bezier(.65,0,.35,1) 2.7s infinite; }
-@keyframes cu { from { opacity: 0; transform: translateY(24px) } to { opacity: 1; transform: none } }
-@keyframes sw { 0%, 70% { transform: translateX(-200px) skewX(-16deg) } 92%, 100% { transform: translateX(760px) skewX(-16deg) } }
-@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
-]]></style>
+
 <defs>
 <linearGradient id="cb" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#141416"/><stop offset="1" stop-color="#0D0D0F"/></linearGradient>
 <linearGradient id="cs" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
 </defs>
 <g class="c0">
 <rect x="0" y="0" width="594" height="300" rx="24" fill="url(#cb)"/>
-<g clip-path="url(#cc0)"><rect class="s0" x="0" y="-40" width="120" height="380" fill="url(#cs)"/></g>
+
 <clipPath id="cc0"><rect x="0" y="0" width="594" height="300" rx="24"/></clipPath>
 <text x="36" y="58" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#6E6E73">01</text>
 <circle cx="550" cy="52" r="16" fill="none" stroke="#2A2A2E"/><path d="M545 57 l10 -10 M547 47 h8 v8" stroke="#A1A1A6" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
@@ -25,7 +17,7 @@
 </g>
 <g class="c1">
 <rect x="606" y="0" width="594" height="300" rx="24" fill="url(#cb)"/>
-<g clip-path="url(#cc1)"><rect class="s1" x="606" y="-40" width="120" height="380" fill="url(#cs)"/></g>
+
 <clipPath id="cc1"><rect x="606" y="0" width="594" height="300" rx="24"/></clipPath>
 <text x="642" y="58" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#6E6E73">02</text>
 <circle cx="1156" cy="52" r="16" fill="none" stroke="#2A2A2E"/><path d="M1151 57 l10 -10 M1153 47 h8 v8" stroke="#A1A1A6" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
@@ -36,7 +28,7 @@
 </g>
 <g class="c2">
 <rect x="0" y="312" width="594" height="300" rx="24" fill="url(#cb)"/>
-<g clip-path="url(#cc2)"><rect class="s2" x="0" y="272" width="120" height="380" fill="url(#cs)"/></g>
+
 <clipPath id="cc2"><rect x="0" y="312" width="594" height="300" rx="24"/></clipPath>
 <text x="36" y="370" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#6E6E73">03</text>
 <circle cx="550" cy="364" r="16" fill="none" stroke="#2A2A2E"/><path d="M545 369 l10 -10 M547 359 h8 v8" stroke="#A1A1A6" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
@@ -47,7 +39,7 @@
 </g>
 <g class="c3">
 <rect x="606" y="312" width="594" height="300" rx="24" fill="url(#cb)"/>
-<g clip-path="url(#cc3)"><rect class="s3" x="606" y="272" width="120" height="380" fill="url(#cs)"/></g>
+
 <clipPath id="cc3"><rect x="606" y="312" width="594" height="300" rx="24"/></clipPath>
 <text x="642" y="370" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#6E6E73">04</text>
 <circle cx="1156" cy="364" r="16" fill="none" stroke="#2A2A2E"/><path d="M1151 369 l10 -10 M1153 359 h8 v8" stroke="#A1A1A6" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
