@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="168" viewBox="0 0 1200 168" role="img" aria-label="02 What I Build — Services I provide.">
+<style><![CDATA[
+.eb { animation: up 1s cubic-bezier(.22,1,.36,1) both; }
+.ti { animation: up 1.2s cubic-bezier(.22,1,.36,1) .12s both; }
+@keyframes up { from { opacity: 0; transform: translateY(26px) } to { opacity: 1; transform: none } }
+.ln { stroke-dasharray: 1200; animation: ln 1.6s cubic-bezier(.65,0,.35,1) .3s both; }
+@keyframes ln { from { stroke-dashoffset: 1200 } to { stroke-dashoffset: 0 } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+]]></style>
+<defs><clipPath id="w"><rect x="0" y="40" width="1200" height="112"/></clipPath></defs>
+<g clip-path="url(#w)">
+<text class="eb" x="2" y="72" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="3.2" fill="#8E9196">02 <tspan opacity=".5">—</tspan> WHAT I BUILD</text>
+<text class="ti" x="0" y="134" font-family="Inter, 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="600" letter-spacing="-2.2" fill="#F5F5F5">Services I provide.</text>
+</g>
+<line class="ln" x1="0" y1="164" x2="1200" y2="164" stroke="#30363D" stroke-width="1.5"/>
+</svg>
