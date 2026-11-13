@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Let’s build something that ships.">
 <style><![CDATA[
-.a { animation: up 1.1s cubic-bezier(.22,1,.36,1) both; } .b { animation-delay: .15s }
-@keyframes up { from { opacity: 0; transform: translateY(20px) } to { opacity: 1; transform: none } }
 .g { animation: g 6s ease-in-out infinite alternate; } @keyframes g { from { opacity: .6 } to { opacity: 1 } }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 ]]></style>

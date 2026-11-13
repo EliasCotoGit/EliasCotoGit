@@ -20,6 +20,7 @@
 .e11 { animation: q11 18.0s infinite; } @keyframes q11 { 0%, 48.47% { opacity: 0 } 48.97%, 100% { opacity: 1 } }
 .all { animation: all 18.0s infinite; } @keyframes all { 0%, 95% { opacity: 1 } 98%, 100% { opacity: 0 } }
 .cur { animation: cur 1s steps(1) infinite; } @keyframes cur { 50% { opacity: 0 } }
+.all, [class^="c"], [class^="o"], [class^="p"], [class^="e"] { animation-delay: -16.4s !important; } .cur { animation-delay: 0s !important; }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 @media (prefers-reduced-motion: reduce) { [class^="c"] { display: none } [class^="o"], [class^="p"], [class^="e"] { opacity: 1 !important } }
 ]]></style>
